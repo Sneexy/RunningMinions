@@ -1,1 +1,3 @@
 # RunningMinions
+
+RUNNING_MINIONS文件夹内是安装运行版本，MINIONS文件夹内是源码。
